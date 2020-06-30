@@ -1,0 +1,44 @@
+body{
+  font-family: 'Indie Flower', cursive;
+
+}
+
+
+
+
+
+h1 span{
+
+  color: brown;  
+}
+.header-left{
+  width: 40%;
+  float: left;
+  height: 600px;
+  margin-left: 50px;
+}
+a{
+  width: 20px;
+  height: 15px;
+  background-color:orange;
+  color: white;
+  border-radius: 3px;
+  padding: 2px;
+  text-decoration: none;
+
+}
+p{
+  font-size: 25px;
+
+}
+.header-right{
+  width: 40%;
+  float: left;
+  height:600px;
+  margin-left: 40px;
+
+}
+.header-right img{
+  width: 400px;
+  margin-left: 50px;
+}
